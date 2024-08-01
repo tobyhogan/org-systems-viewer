@@ -5,7 +5,8 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-blue-500 text-5xl mx-auto mt-5 px-10 py-4 w-fit'>Organisation </h1>
+      <h1 className='text-3xl mx-auto mt-5 px-10 py-4 w-fit'>Organisation System Viewer </h1>
+      <h2>Your Organisation: </h2>
     </>
   )
 }
