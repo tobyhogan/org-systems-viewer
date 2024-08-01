@@ -3,4 +3,8 @@
 What features do I want it to have:
 
 
-- definitely like a cost tracker, something that allows you to split up money and divide it between different entities like employees, servers or something, definitely
+- A cost tracker, something that allows you to split up money and divide it between different entities like employees, servers
+  - A sankey diagram would be good for this no?
+
+
+
